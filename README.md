@@ -1,2 +1,2 @@
 # EdloPosc
-I'm a jut Edlo
+I'm a just Edlo
